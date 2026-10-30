@@ -1,6 +1,10 @@
 # NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-SOC-PROJECT--WIRESHARK
 Project Overview
 As part of my cybersecurity learning journey and internship at NetworkWalks, I completed a series of Wireshark SOC Labs focused on network traffic analysis, threat detection, and security investigation.
+## Project Evidence
+
+![SOC project wireshark Screenshot]() 
+
 Using Wireshark, I analyzed network packet captures to investigate suspicious activities, identify potential security threats, examine communication protocols, and understand how attackers exploit weaknesses in network services.
 The hands-on exercises covered attacker IP identification, TCP connection analysis, TCP stream inspection, hidden data detection, HTTP authentication, brute-force attack investigation, and VoIP traffic analysis.
 Project Objectives
