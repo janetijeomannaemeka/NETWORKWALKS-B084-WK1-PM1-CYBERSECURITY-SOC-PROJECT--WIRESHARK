@@ -13,6 +13,11 @@ Project Objectives
 * Examine TCP connections, ports, and packet flags.
 * Follow TCP streams to investigate conversations and identify exposed information.
 * Analyze HTTP requests and authentication methods.
+
+* ## Project Evidence
+
+![Lab 6 Result]() 
+
 * Investigate repeated login attempts and identify brute-force attacks.
 * Examine VoIP signalling and voice traffic protocols.
 
