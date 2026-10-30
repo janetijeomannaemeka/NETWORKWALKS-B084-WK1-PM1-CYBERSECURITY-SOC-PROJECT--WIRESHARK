@@ -46,3 +46,11 @@ These practical labs strengthened my understanding of how network traffic can re
 This experience has further strengthened my interest in cybersecurity, particularly Security Operations Centre (SOC) analysis, threat detection, and incident response.
 Project Status: Completed ✅
 Training Platform: NetworkWalks
+# 👤 Author
+**Nnaemeka Janet**\
+Cybersecurity Professional B084B
+LinkedIn: [https://www.linkedin.com/in/janet-nnaemeka-164a521b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHgwUBf4MRZOkY9lcbEwcKw%3D%3D)
+## Project Information
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+## Acknowledgement
+This project's structure and documentation structure was inspired by Waqas Karim CCIE
