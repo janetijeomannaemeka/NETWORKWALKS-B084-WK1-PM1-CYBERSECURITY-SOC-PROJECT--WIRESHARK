@@ -3,7 +3,7 @@ Project Overview
 As part of my cybersecurity learning journey and internship at NetworkWalks, I completed a series of Wireshark SOC Labs focused on network traffic analysis, threat detection, and security investigation.
 ## Project Evidence
 
-![SOC project wireshark Screenshot]() 
+![Lab 4 Result](https://github.com/janetijeomannaemeka/Cybersecurity-capstone-project/blob/main/Lab%204%20Result%20-%20Janet%20Nnaemeka(1).png?raw=true) 
 
 Using Wireshark, I analyzed network packet captures to investigate suspicious activities, identify potential security threats, examine communication protocols, and understand how attackers exploit weaknesses in network services.
 The hands-on exercises covered attacker IP identification, TCP connection analysis, TCP stream inspection, hidden data detection, HTTP authentication, brute-force attack investigation, and VoIP traffic analysis.
