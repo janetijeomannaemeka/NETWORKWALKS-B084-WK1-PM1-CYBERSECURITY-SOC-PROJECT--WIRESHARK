@@ -16,7 +16,7 @@ Project Objectives
 
 * ## Project Evidence
 
-![Lab 6 Result]() 
+![Lab 6 Result](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-SOC-PROJECT--WIRESHARK/blob/main/Lab%206%20Result%20-%20Janet%20Nnaemeka.png?raw=true) 
 
 * Investigate repeated login attempts and identify brute-force attacks.
 * Examine VoIP signalling and voice traffic protocols.
